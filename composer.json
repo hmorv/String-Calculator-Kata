@@ -1,0 +1,16 @@
+{
+    "name": "hal/string-calculator-kata",
+    "description": "String Calculator PHP Kata",
+    "authors": [
+        {
+            "name": "Hugo Moragues",
+            "email": "hugo.moragues@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+    	"psr-4": {
+    		"App\\": "src"
+    	}
+    }
+}
